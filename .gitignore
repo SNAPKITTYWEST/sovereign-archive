@@ -1,0 +1,5 @@
+sovereign-archive
+sovereign-archive-gui
+*.exe
+vendor/
+*.test
